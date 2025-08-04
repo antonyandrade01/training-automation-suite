@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?logo=libreofficet&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreofficet&logoColor=white)
 ![License](https://img.shields.io/github/license/antonyandrade01/training-automation-suite?style=for-the-badge)
 
 <!-- English Version (Default) -->
