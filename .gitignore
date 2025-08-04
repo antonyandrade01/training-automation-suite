@@ -1,0 +1,18 @@
+# Arquivo de configuração com senhas e segredos. NUNCA ENVIE ISSO!
+.env
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Arquivos gerados pelo script
+/logs/
+/relatorios/
+/powerpoint/
+*.csv

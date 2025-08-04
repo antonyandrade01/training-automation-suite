@@ -1,0 +1,4 @@
+suite;titulo;movidesk;ordem;observacao
+12345;Correcao na tela de login;98765;1;Esta e uma observacao de exemplo para o ticket.
+12346;Nova funcionalidade de relatorio;98766;2;
+12347;Ajuste no calculo de imposto;98767;3;Verificar com o cliente se o layout esta correto.
